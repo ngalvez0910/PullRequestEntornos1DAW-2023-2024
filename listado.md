@@ -21,5 +21,5 @@ Alumnado (Apellidos, Nombre):
 - Novillo Luceño, Diego
 - Domingo Álvarez, Mario de
 - Leon Mulero, Jaime
-- Gonzalez Alvarez, Natalia
+- Gonzalez Alvarez, Natalia (Gitkraken)
 - Aguilera Villaplana Alejandro
